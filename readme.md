@@ -19,7 +19,7 @@ This is my personal website! Come and take a look at my initial projects and cou
 <br />
 
 ![](https://visit-counter.vercel.app/counter.png?page=suhnity/WD-Finals)
-[![wakatime](https://wakatime.com/badge/user/5eb8587c-affc-4f9f-b183-4bc98d385a16/project/9b4d1bae-2343-453c-906c-1e92afd8d06e.svg)](https://wakatime.com/badge/user/5eb8587c-affc-4f9f-b183-4bc98d385a16/project/9b4d1bae-2343-453c-906c-1e92afd8d06e)
+<figure><embed src="https://wakatime.com/share/@suhnity/d15d1296-6efc-4452-a6fa-94d294638c44.svg"></embed></figure>
 ---
 
 <br />
