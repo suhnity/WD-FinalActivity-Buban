@@ -9,7 +9,7 @@
     <img src="./assets/img/readme-icon.png" alt="elanyork" width="250" height="180">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Finals ACtivity</h3>
+  <h3 align="center">Finals Activity</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -19,7 +19,7 @@ This is my personal website! Come and take a look at my initial projects and cou
 <br />
 
 ![](https://visit-counter.vercel.app/counter.png?page=suhnity/WD-Finals)
-
+[![wakatime](https://wakatime.com/badge/user/5eb8587c-affc-4f9f-b183-4bc98d385a16/project/9b4d1bae-2343-453c-906c-1e92afd8d06e.svg)](https://wakatime.com/badge/user/5eb8587c-affc-4f9f-b183-4bc98d385a16/project/9b4d1bae-2343-453c-906c-1e92afd8d06e)
 ---
 
 <br />
@@ -62,7 +62,6 @@ This project showcases my journey and projects in Information Technology, highli
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -104,3 +103,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Own-made read me icon | For readme icon purposes | Made with Adobe Illustrator |
+| Animations | Inspiration of animation codes | (https://devdevout.com/) |
+
