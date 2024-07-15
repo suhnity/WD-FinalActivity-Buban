@@ -24,7 +24,7 @@ This is my personal website! Come and take a look at my initial projects and cou
 
 <br />
 
-<img src="https://wakatime.com/share/@suhnity/d15d1296-6efc-4452-a6fa-94d294638c44.svg" height="400"/>
+<img src="https://wakatime.com/share/@suhnity/2663b61d-0721-4563-a556-3e6f342d059b.svg" height="100"/>
 ---
 
 <br />
