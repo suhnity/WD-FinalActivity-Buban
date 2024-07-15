@@ -4,30 +4,27 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/suhnity/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/readme-icon.png" alt="elanyork" width="180" height="180">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Finals ACtivity</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+This is my personal website! Come and take a look at my initial projects and coursework demonstrating my understanding of IT and Business Analytics principles. It contains interactive navigational buttons that are both functional and visually engaging. My knowledge in HTML, CSS, and layout techniques helped me to create a user-friendly website.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=suhnity/WD-Finals)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,23 +51,12 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This project showcases my journey and projects in Information Technology, highlighting the skills and experiences I've gained throughout my coursework. This aims to document my learning journey, share knowledge with others, and demonstrate proficiency in web development using HTML, CSS, JavaScript, and other languages.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Engaging and Interactive Navigation Buttons
+- Visually Appealing
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +103,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Own-made read me icon | For readme icon purposes | Made with Adobe Illustrator |
