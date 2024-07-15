@@ -109,4 +109,4 @@ WD-ProjectName
 |-|-|-|
 | Own-made read me icon | For readme icon purposes | Made with Adobe Illustrator |
 | Animations | Inspiration of animation codes | (https://devdevout.com/) |
-
+| Background GIF | Background purposes | (https://google.com/) |
